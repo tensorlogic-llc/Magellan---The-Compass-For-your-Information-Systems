@@ -40,7 +40,8 @@ including shared network locations.
 ## Ownership
 Developed and maintained by Jesse Barto.
 © 2026 Tensor Logic LLC.
-
+- https://tensorlogic-llc.github.io
+ 
 ## License
 Licensed under the Apache License, Version 2.0.
 See the LICENSE file for details.
