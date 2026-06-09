@@ -6,7 +6,7 @@
 
 
 
-[![Latest Release](https://img.shields.io/github/v/release/tensorlogic-llc/Magellan---The-Compass-For-your-Information-Systems)](https://github.com/tensorlogic-llc/Magellan---The-Compass-For-your-Information-Systems/releases)
+[![Latest Release](https://img.shields.io/github/v/release/tensorlogic-llc/Magellan---The-Compass-For-your-Information-Systems?sort=date&display_name=tag)](https://github.com/tensorlogic-llc/Magellan---The-Compass-For-your-Information-Systems/releases/latest)
 
 Magellan is an information systems catalog and governance tool for Windows. Capture your software, infrastructure, and business processes in one place — then explore relationships, risk, and ownership through interactive maps, 22 built-in reports, and optional AI-assisted analysis.
 
